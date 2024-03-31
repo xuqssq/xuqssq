@@ -1,36 +1,44 @@
-### Hi there, I'm XuQian 👋
+### Hi there 👋 
+### This is If!
 
-## ⚡ Technologies
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/xuqssq)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:xuqssq@gmail.com)
 
-![React.js](https://img.shields.io/badge/-Vue.js-gray?style=flat-square&logo=react.js)
-![Vue.js](https://img.shields.io/badge/-Vue.js-gray?style=flat-square&logo=vue.js)
-![Node.js](https://img.shields.io/badge/-Node.js-gray?style=flat-square&logo=Node.js)
-![Express](https://img.shields.io/badge/-Express-gray?style=flat-square&logo=Express)
-![JavaScript](https://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-gray?style=flat-square&logo=TypeScript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-gray?style=flat-square&logo=MongoDB)
-![Docker](https://img.shields.io/badge/-Docker-gray?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-gray?style=flat-square&logo=git)
+Welcome to my Github page! I am If, and I'm a React developer. Feel free to explore my projects and repositories! If you have any questions or suggestions, don't hesitate to reach out!  
 
-## 📈 Stats
-<img  src="https://github-readme-stats.vercel.app/api?username=xuqssq&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=xuqssq&theme=dark" width="48%" >
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=xuqssq&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 💕 Life Style
-### 🎵 Music
+#### 🌱 Things I am currently working on: 
+- Developing a browser extension using React
+- Taking online courses about Data Science and Machine Learning 
+- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ekm67rnwg7jvw2mwgkn537aqqq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+#### :muscle: Things I am challenging myself with:
+- Waking up earlier to make good use of the day
+- Coding at least 6 hours a day
+- Exercising 3 days a week
+- Improving my CV with some education apart from university
 
-## 👨‍💻‍ Spare 
-<!-- waka-box start -->
-#### <a href="https://gist.github.com/d235c8ecfc2fb0fbd4b2513f3cf2647f" target="_blank">📊 Weekly development breakdown</a>
-```text
-Vue.js     🕓 11h49m ██████████████▎░░░░░░░░░░░░ 53.0%
-Node.js    🕓 6h52m  ████████▎░░░░░░░░░░░░░░░░░░ 30.9%
-JavaScript 🕓 1h16m  █▌░░░░░░░░░░░░░░░░░░░░░░░░░  5.8%
-TypeScript 🕓 51m    █░░░░░░░░░░░░░░░░░░░░░░░░░░  3.9%
-Other      🕓 17m    ▎░░░░░░░░░░░░░░░░░░░░░░░░░░  1.3%
-```
+#### :computer: Programming languages and tools: 
+<p>
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=xuqssq&show_icons=true&hide_border=true" />
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
+<code><img width="10%" src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/vite.svg"></code>
+<code><img width="10%" src="https://upload.vectorlogo.zone/logos/threejs/images/3453d6aa-b9c2-48b3-b2c1-97aa80b5525e.svg"></code>
+</p>
+
+<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
