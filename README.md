@@ -21,7 +21,8 @@
 
 ## 💕 Life Style
 ### 🎵 Music
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e979438zirmb7s3yctw95mhn4&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ekm67rnwg7jvw2mwgkn537aqqq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## 👨‍💻‍ Spare 
 <!-- waka-box start -->
