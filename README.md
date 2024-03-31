@@ -6,7 +6,7 @@
 
 Welcome to my Github page! I am If, and I'm a React developer. Feel free to explore my projects and repositories! If you have any questions or suggestions, don't hesitate to reach out!  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/xuqssq/xuqssq/blob/main/code.gif" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
@@ -41,4 +41,4 @@ Welcome to my Github page! I am If, and I'm a React developer. Feel free to expl
 <code><img width="10%" src="https://upload.vectorlogo.zone/logos/threejs/images/3453d6aa-b9c2-48b3-b2c1-97aa80b5525e.svg"></code>
 </p>
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
+<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/xuqssq/xuqssq/blob/main/cover_image.jpg)</sub>
