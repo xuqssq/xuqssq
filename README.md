@@ -11,8 +11,8 @@ Welcome to my Github page! I am If, and I'm a React developer. Feel free to expl
 
 #### 🌱 Things I am currently working on: 
 - Developing a browser extension using React
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+- Developing various responsive websites using Next.js
+- Writing various kinds of scripts using Node
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
