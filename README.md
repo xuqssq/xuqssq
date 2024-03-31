@@ -2,7 +2,7 @@
 
 ## ⚡ Technologies
 
-
+![React.js](https://img.shields.io/badge/-Vue.js-gray?style=flat-square&logo=react.js)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-gray?style=flat-square&logo=vue.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-gray?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-gray?style=flat-square&logo=Express)
