@@ -3,7 +3,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/xuqssq)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:xuqssq@gmail.com)
-[![Blog](https://img.shields.io/badge/-Blog-63bbd0?style=flat&logo=Blogger&logoColor=#FF5722)](https://xuqssq.com)
+[![Blog](https://img.shields.io/badge/-Blog-63bbd0?style=flat&logo=Blogger&logoColor=white)](https://xuqssq.com)
 
 
 
