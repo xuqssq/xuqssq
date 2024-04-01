@@ -3,6 +3,9 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/xuqssq)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:xuqssq@gmail.com)
+[![Blog](https://img.shields.io/badge/-Blogger-FF5722?style=flat&logo=Blogger&logoColor=#FF5722)](https://xuqssq.com)
+
+
 
 Welcome to my Github page! I am If, and I'm a React developer. Feel free to explore my projects and repositories! If you have any questions or suggestions, don't hesitate to reach out!  
 
@@ -30,15 +33,15 @@ Welcome to my Github page! I am If, and I'm a React developer. Feel free to expl
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
 <br />
-<code><img width="5%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
+<code><img width="10%" src="https://upload.vectorlogo.zone/logos/typescriptlang/images/c108b043-7101-4485-a8a2-4b2a9ac6f8b4.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
-<code><img width="6%" src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/vite.svg"></code>
-<code><img width="10%" src="https://upload.vectorlogo.zone/logos/threejs/images/3453d6aa-b9c2-48b3-b2c1-97aa80b5525e.svg"></code>
+<code><img width="5%" src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/vite.svg"></code>
+<code><img width="8%" src="https://upload.vectorlogo.zone/logos/threejs/images/3453d6aa-b9c2-48b3-b2c1-97aa80b5525e.svg"></code>
 </p>
 
 <sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/xuqssq/xuqssq/blob/main/cover_image.jpg)</sub>
