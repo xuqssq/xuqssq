@@ -19,7 +19,7 @@ Welcome to my Github page! I am If, and I'm a React developer. Feel free to expl
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
+- Coding at least 6 hours a day
 - Exercising 3 days a week
 - Improving my CV with some education apart from university
 
