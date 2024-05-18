@@ -38,7 +38,7 @@ Welcome to my Github page! I am If, and I'm a React developer. Feel free to expl
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code>
 <br />
 <code><img width="10%" src="https://upload.vectorlogo.zone/logos/typescriptlang/images/c108b043-7101-4485-a8a2-4b2a9ac6f8b4.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
