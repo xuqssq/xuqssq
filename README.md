@@ -33,7 +33,7 @@ Welcome to my Github page! I am If, and I'm a React developer. Feel free to expl
 <br />
 <code><img width="4%" src="https://github.com/gilbarbara/logos/blob/main/logos/strapi-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/supabase/supabase-ar21.svg"></code>
-<code><img width="4%" src="https://upload.vectorlogo.zone/logos/nextjs/images/abcffb25-b56d-475f-9c82-26818776dc33.svg"></code>
+<code><img width="4%" src="https://upload.vectorlogo.zone/logos/nextjs/images/271afdac-aad3-4712-89fd-a25f63fd6dd4.svg"></code>
 <code><img width="6%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
