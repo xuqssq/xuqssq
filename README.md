@@ -31,6 +31,11 @@ Welcome to my Github page! I am If, and I'm a React developer. Feel free to expl
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <br />
+<code><img width="4%" src="https://github.com/gilbarbara/logos/blob/main/logos/strapi-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/supabase/supabase-ar21.svg"></code>
+<code><img width="4%" src="https://upload.vectorlogo.zone/logos/nextjs/images/abcffb25-b56d-475f-9c82-26818776dc33.svg"></code>
+<code><img width="6%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
+<br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
@@ -43,11 +48,7 @@ Welcome to my Github page! I am If, and I'm a React developer. Feel free to expl
 <code><img width="4%" src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/vite.svg"></code>
 <code><img width="8%" src="https://upload.vectorlogo.zone/logos/threejs/images/3453d6aa-b9c2-48b3-b2c1-97aa80b5525e.svg"></code>
 <code><img width="6%" src="https://www.vectorlogo.zone/logos/lodash/lodash-ar21.svg"></code>
-<br />
-<code><img width="4%" src="https://github.com/gilbarbara/logos/blob/main/logos/strapi-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg"></code>
-<code><img width="4%" src="https://upload.vectorlogo.zone/logos/nextjs/images/abcffb25-b56d-475f-9c82-26818776dc33.svg"></code>
-<code><img width="6%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
+
 
 </p>
 
