@@ -48,7 +48,7 @@ Welcome to my Github page! I am If, and I'm a React developer. Feel free to expl
 <code><img width="4%" src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/vite.svg"></code>
 <code><img width="8%" src="https://upload.vectorlogo.zone/logos/threejs/images/3453d6aa-b9c2-48b3-b2c1-97aa80b5525e.svg"></code>
 <code><img width="6%" src="https://www.vectorlogo.zone/logos/lodash/lodash-ar21.svg"></code>
-<br /><br />
+<br />
 <code><img width="10%" src="https://github.com/gilbarbara/logos/blob/main/logos/turborepo.svg"></code>
 <code><img width="10%" src="https://github.com/prplx/svg-logos/blob/master/svg/trpc.svg"></code>
 
