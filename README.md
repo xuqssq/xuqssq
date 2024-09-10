@@ -50,7 +50,7 @@ Welcome to my Github page! I am If, and I'm a React developer. Feel free to expl
 <code><img width="6%" src="https://www.vectorlogo.zone/logos/lodash/lodash-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://github.com/gilbarbara/logos/blob/main/logos/turborepo.svg"></code>
-<code><img width="10%" src="https://github.com/prplx/svg-logos/blob/master/svg/trpc.svg"></code>
+<code><img width="10%" src="https://github.com/prplx/svg-logos/blob/master/svg/tRPC.svg"></code>
 
 
 
