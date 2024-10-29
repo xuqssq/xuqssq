@@ -52,13 +52,6 @@ Welcome to my Github page! I am If, and I'm a React developer. Feel free to expl
 <code><img width="10%" src="https://github.com/gilbarbara/logos/blob/main/logos/turborepo.svg"></code>
 <code><img width="10%" src="https://github.com/prplx/svg-logos/blob/master/svg/tRPC.svg"></code>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xuqssq/xuqssq/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xuqssq/xuqssq/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xuqssq/xuqssq/output/github-contribution-grid-snake.svg">
-</picture>
-
-
 
 </p>
 
