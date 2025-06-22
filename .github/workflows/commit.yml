@@ -2,14 +2,14 @@ name: autocommit-robot
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-    - cron: "30 0 * * *"
-    - cron: "0 1 * * *"
-    - cron: "30 1 * * *"
-    - cron: "0 2 * * *"
-    - cron: "30 2 * * *"
-    - cron: "0 3 * * *"
-    - cron: "30 3 * * *"
+    - cron: "0 16 * * *"
+    - cron: "30 16 * * *"
+    - cron: "0 17 * * *"
+    - cron: "30 17 * * *"
+    - cron: "0 18 * * *"
+    - cron: "30 18 * * *"
+    - cron: "0 19 * * *"
+    - cron: "30 19 * * *"
 
   workflow_dispatch:
 
