@@ -20,7 +20,7 @@ jobs:
       contents: write
     env:
       TZ: Asia/Shanghai
-      ACCOUNT_TOKEN: ${{ secrets.ACCOUNT_TOKEN }}
+      GITHUB_TOKEN: ${{ secrets.ACCOUNT_TOKEN }}
 
     steps:
       - name: "Checkout code"
