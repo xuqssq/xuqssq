@@ -27,7 +27,7 @@ const minutes = formatNumber(now.getMinutes());
 const seconds = formatNumber(now.getSeconds());
 
 // YYYY-MM-DD-HH-mm-ss.png
-const fileName = `${date.join("-")}-${hours}-${minutes}-${seconds}.png`;
+const fileName = `${date.join("-")}-${hours}-${minutes}-${seconds}-(${id}).png`;
 
 request(url)
   .on("error", (err) => {
