@@ -27,30 +27,30 @@ Welcome to my Github page! I am If, and I'm a React developer. Feel free to expl
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=xuqssq&show_icons=true&hide_border=true" />
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+<code><img width="10%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/react.svg"></code>
+<code><img width="10%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/node.svg"></code>
+<code><img width="10%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/nextjs.svg"></code>
 <br />
-<code><img width="4%" src="https://github.com/gilbarbara/logos/blob/main/logos/strapi-icon.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/supabase/supabase-ar21.svg"></code>
-<code><img width="8%" src="https://upload.vectorlogo.zone/logos/nextjs/images/271afdac-aad3-4712-89fd-a25f63fd6dd4.svg"></code>
-<code><img width="6%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
+<code><img width="4%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/vite.svg"></code>
+<code><img width="10%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/webpack.svg"></code>
+<code><img width="8%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/turborepo.svg"></code>
+<code><img width="6%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/vercel.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="13%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code>
+<code><img width="10%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/typescript.svg"></code>
+<code><img width="10%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/tailwindcss.svg"></code>
+<code><img width="13%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/lodash.svg"></code>
 <br />
-<code><img width="10%" src="https://upload.vectorlogo.zone/logos/typescriptlang/images/c108b043-7101-4485-a8a2-4b2a9ac6f8b4.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/supabase.svg"></code>
+<code><img width="10%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/mongodb.svg"></code>
+<code><img width="10%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/docker.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
-<code><img width="4%" src="https://vite.dev/logo.svg"></code>
-<code><img width="8%" src="https://upload.vectorlogo.zone/logos/threejs/images/3453d6aa-b9c2-48b3-b2c1-97aa80b5525e.svg"></code>
-<code><img width="6%" src="https://www.vectorlogo.zone/logos/lodash/lodash-ar21.svg"></code>
+<code><img width="10%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/stripe.svg"></code>
+<code><img width="4%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/claude.svg"></code>
+<code><img width="8%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/strapi.svg"></code>
+<code><img width="6%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/git.svg"></code>
 <br />
-<code><img width="10%" src="https://github.com/gilbarbara/logos/blob/main/logos/turborepo.svg"></code>
-<code><img width="10%" src="https://github.com/prplx/svg-logos/blob/master/svg/tRPC.svg"></code>
+<code><img width="10%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/claude.svg"></code>
+<code><img width="10%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/openai.svg"></code>
 
 
 </p>
