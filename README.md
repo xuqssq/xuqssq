@@ -36,7 +36,6 @@ Welcome to my Github page! I am If, and I'm a React developer. Feel free to expl
 <code><img width="4%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/webpack.svg"></code>
 <code><img width="14%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/turborepo.svg"></code>
 <br />
-<br />
 <code><img width="4%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/typescript.svg"></code>
 <code><img width="5%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/lodash.svg"></code>
 <code><img width="5%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/react-query.svg"></code>
