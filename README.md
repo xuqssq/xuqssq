@@ -27,11 +27,11 @@ Welcome to my Github page! I am If, and I'm a React developer. Feel free to expl
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=xuqssq&show_icons=true&hide_border=true" />
 
-<code><img width="10%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/react.svg"></code>
-<code><img width="10%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/node.svg"></code>
-<code><img width="10%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/nextjs.svg"></code>
+<code><img width="5%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/react.svg"></code>
+<code><img width="15%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/node.svg"></code>
+<code><img width="5%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/nextjs.svg"></code>
 <br />
-<code><img width="4%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/vite.svg"></code>
+<code><img width="4%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/vitejs.svg"></code>
 <code><img width="10%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/webpack.svg"></code>
 <code><img width="8%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/turborepo.svg"></code>
 <code><img width="6%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/vercel.svg"></code>
@@ -39,6 +39,8 @@ Welcome to my Github page! I am If, and I'm a React developer. Feel free to expl
 <code><img width="10%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/typescript.svg"></code>
 <code><img width="10%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/tailwindcss.svg"></code>
 <code><img width="13%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/lodash.svg"></code>
+<code><img width="13%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/react-query.svg"></code>
+
 <br />
 <code><img width="10%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/supabase.svg"></code>
 <code><img width="10%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/mongodb.svg"></code>
