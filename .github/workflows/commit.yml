@@ -2,9 +2,9 @@ name: autocommit-robot
 
 on:
   schedule:
-    - cron: "40 22 * * *"
-    - cron: "5,8,18,28,38,48,58 0 * * *"
-    - cron: "8 1 * * *"
+    - cron: "46 14 * * *"
+    - cron: "5,8,18,28,38,48,58 16 * * *"
+    - cron: "8 17 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,7 +13,6 @@ jobs:
     permissions:
       contents: write
     env:
-      TZ: Asia/Shanghai
       ACCOUNT_TOKEN: ${{ secrets.ACCOUNT_TOKEN }}
 
     steps:
@@ -97,7 +96,6 @@ jobs:
         run: |
           mkdir -p pictures
           node scripts/commit.js
-          date > pictures/timestamp.txt
 
       - name: "Commit and Push"
         run: |
