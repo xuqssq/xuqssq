@@ -39,6 +39,7 @@ Welcome to my Github page! I am If, and I'm a React developer. Feel free to expl
 <code><img width="4%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/typescript.svg"></code>
 <code><img width="4%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/lodash.svg"></code>
 <code><img width="4.5%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/react-query.svg"></code>
+<code><img width="6%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/npm.svg"></code>
 <br />
 <code><img width="14%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/tailwindcss.svg"></code>
 <code><img width="4.5%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/git.svg"></code>
