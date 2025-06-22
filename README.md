@@ -30,29 +30,24 @@ Welcome to my Github page! I am If, and I'm a React developer. Feel free to expl
 <code><img width="5%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/reactjs.svg"></code>
 <code><img width="10%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/node.svg"></code>
 <code><img width="5%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/nextjs.svg"></code>
-<br />
+<code><img width="4%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/git.svg"></code>
 <br />
 <code><img width="4%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/vitejs.svg"></code>
 <code><img width="4%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/webpack.svg"></code>
 <code><img width="14%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/turborepo.svg"></code>
 <br />
-<br />
 <code><img width="5%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/typescript.svg"></code>
 <code><img width="5%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/lodash.svg"></code>
 <code><img width="5%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/react-query.svg"></code>
 <br />
-<br />
 <code><img width="14%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/tailwindcss.svg"></code>
-<code><img width="8%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/supabase.svg"></code>
+<code><img width="10%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/supabase.svg" style="margin-top: 10px;"></code>
 <code><img width="10%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/mongodb.svg"></code>
-<br />
 <br />
 <code><img width="6%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/stripe.svg"></code>
 <code><img width="5%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/cloudflare.svg"></code>
 <code><img width="4%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/strapi.svg"></code>
-<code><img width="4%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/git.svg"></code>
 <code><img width="5%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/docker.svg"></code>
-<br />
 <br />
 <code><img width="4%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/claude.svg"></code>
 <code><img width="4%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/openai.svg"></code>
