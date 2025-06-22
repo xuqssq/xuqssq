@@ -55,4 +55,4 @@ Welcome to my Github page! I am If, and I'm a React developer. Feel free to expl
 <code><img width="12%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/vercel.svg"></code>
 </p>
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/xuqssq/xuqssq/blob/main/cover_image.jpg)</sub>
+<sub>Credits to: <br/>[Shelly Mullan](https://www.artstation.com/shellz-art) for the wonderfull [picture](https://github.com/xuqssq/xuqssq/blob/main/programmer.jpg)</sub>
