@@ -34,12 +34,10 @@ Welcome to my Github page! I am If, and I'm a React developer. Feel free to expl
 <code><img width="4%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/vitejs.svg"></code>
 <code><img width="4%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/webpack.svg"></code>
 <code><img width="14%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/turborepo.svg"></code>
-
 <br />
 <code><img width="5%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/typescript.svg"></code>
 <code><img width="5%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/lodash.svg"></code>
 <code><img width="5%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/react-query.svg"></code>
-
 <br />
 <code><img width="14%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/tailwindcss.svg"></code>
 <code><img width="8%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/supabase.svg"></code>
@@ -54,7 +52,6 @@ Welcome to my Github page! I am If, and I'm a React developer. Feel free to expl
 <code><img width="4%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/claude.svg"></code>
 <code><img width="4%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/openai.svg"></code>
 <code><img width="10%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/vercel.svg"></code>
-
 </p>
 
 <sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/xuqssq/xuqssq/blob/main/cover_image.jpg)</sub>
