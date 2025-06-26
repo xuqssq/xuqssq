@@ -25,12 +25,12 @@ Welcome to my Github page! I am If, and I'm a React developer. Feel free to expl
 
 #### :computer: Programming languages and tools: 
 <p>
-<img width="50%" align="right" src="https://github-readme-stats-quirkyai.vercel.app/api?username=xuqssq&include_all_commits=true" />
+<img width="50%" align="right" src="https://github-readme-stats-quirkyai.vercel.app/api?username=xuqssq&include_all_commits=false" />
 
-<code><img width="5%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/reactjs.svg"></code>
+<code><img width="4.5%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/reactjs.svg"></code>
 <code><img width="10%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/node.svg"></code>
-<code><img width="5%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/nextjs.svg"></code>
-<code><img width="5%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/supabase-icon.svg"></code>
+<code><img width="4.5%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/nextjs.svg"></code>
+<code><img width="4.5%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/supabase-icon.svg"></code>
 <br />
 <code><img width="4%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/vitejs.svg"></code>
 <code><img width="4%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/webpack.svg"></code>
