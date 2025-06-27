@@ -26,6 +26,8 @@ Welcome to my Github page! I am If, and I'm a React developer. Feel free to expl
 #### :computer: Programming languages and tools: 
 <p>
 <img width="50%" align="right" src="https://github-readme-stats-quirkyai.vercel.app/api?username=xuqssq&include_all_commits=false" />
+<img width="50%" align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xuqssq&theme=transparent" />
+
 
 <code><img width="4.5%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/reactjs.svg"></code>
 <code><img width="10%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/node.svg"></code>
