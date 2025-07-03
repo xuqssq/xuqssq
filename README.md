@@ -9,7 +9,7 @@
 
 Welcome to my Github page! I am If, and I'm a React developer. Feel free to explore my projects and repositories! If you have any questions or suggestions, don't hesitate to reach out!  
 
-<img align="right" alt="img" src="https://github.com/xuqssq/xuqssq/blob/main/code.gif" width="50%" height="auto" />
+<img align="right" alt="img" src="https://raw.githubusercontent.com/xuqssq/xuqssq/main/code.gif" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
@@ -29,32 +29,33 @@ Welcome to my Github page! I am If, and I'm a React developer. Feel free to expl
 <img width="50%" align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xuqssq&theme=github" />
 
 
-<code><img width="4.5%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/reactjs.svg"></code>
-<code><img width="10%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/node.svg"></code>
-<code><img width="4.5%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/nextjs.svg"></code>
-<code><img width="4.5%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/supabase-icon.svg"></code>
+<code><img width="4.5%" src="https://raw.githubusercontent.com/xuqssq/xuqssq/main/skills/reactjs.svg"></code>
+<code><img width="10%" src="https://raw.githubusercontent.com/xuqssq/xuqssq/main/skills/node.svg"></code>
+<code><img width="4.5%" src="https://raw.githubusercontent.com/xuqssq/xuqssq/main/skills/nextjs.svg"></code>
+<code><img width="4.5%" src="https://raw.githubusercontent.com/xuqssq/xuqssq/main/skills/supabase-icon.svg"></code>
 <br />
-<code><img width="4%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/vitejs.svg"></code>
-<code><img width="4%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/webpack.svg"></code>
-<code><img width="14%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/turborepo.svg"></code>
+<code><img width="10%" src="https://raw.githubusercontent.com/xuqssq/xuqssq/main/skills/nestjs.svg"></code>
+<code><img width="4%" src="https://raw.githubusercontent.com/xuqssq/xuqssq/main/skills/vitejs.svg"></code>
+<code><img width="4%" src="https://raw.githubusercontent.com/xuqssq/xuqssq/main/skills/webpack.svg"></code>
+<code><img width="14%" src="https://raw.githubusercontent.com/xuqssq/xuqssq/main/skills/turborepo.svg"></code>
 <br />
-<code><img width="4%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/typescript.svg"></code>
-<code><img width="4%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/lodash.svg"></code>
-<code><img width="4.5%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/react-query.svg"></code>
-<code><img width="6%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/npm.svg"></code>
+<code><img width="4%" src="https://raw.githubusercontent.com/xuqssq/xuqssq/main/skills/typescript.svg"></code>
+<code><img width="4%" src="https://raw.githubusercontent.com/xuqssq/xuqssq/main/skills/lodash.svg"></code>
+<code><img width="4.5%" src="https://raw.githubusercontent.com/xuqssq/xuqssq/main/skills/react-query.svg"></code>
+<code><img width="6%" src="https://raw.githubusercontent.com/xuqssq/xuqssq/main/skills/npm.svg"></code>
 <br />
-<code><img width="14%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/tailwindcss.svg"></code>
-<code><img width="4.5%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/git.svg"></code>
-<code><img width="10%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/mongodb.svg"></code>
+<code><img width="14%" src="https://raw.githubusercontent.com/xuqssq/xuqssq/main/skills/tailwindcss.svg"></code>
+<code><img width="4.5%" src="https://raw.githubusercontent.com/xuqssq/xuqssq/main/skills/git.svg"></code>
+<code><img width="10%" src="https://raw.githubusercontent.com/xuqssq/xuqssq/main/skills/mongodb.svg"></code>
 <br />
-<code><img width="6%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/stripe.svg"></code>
-<code><img width="6%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/cloudflare.svg"></code>
-<code><img width="4%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/strapi.svg"></code>
-<code><img width="5%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/docker.svg"></code>
+<code><img width="6%" src="https://raw.githubusercontent.com/xuqssq/xuqssq/main/skills/stripe.svg"></code>
+<code><img width="6%" src="https://raw.githubusercontent.com/xuqssq/xuqssq/main/skills/cloudflare.svg"></code>
+<code><img width="4%" src="https://raw.githubusercontent.com/xuqssq/xuqssq/main/skills/strapi.svg"></code>
+<code><img width="5%" src="https://raw.githubusercontent.com/xuqssq/xuqssq/main/skills/docker.svg"></code>
 <br />
-<code><img width="4%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/claude.svg"></code>
-<code><img width="4%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/openai.svg"></code>
-<code><img width="12%" src="https://github.com/xuqssq/xuqssq/blob/main/skills/vercel.svg"></code>
+<code><img width="4%" src="https://raw.githubusercontent.com/xuqssq/xuqssq/main/skills/claude.svg"></code>
+<code><img width="4%" src="https://raw.githubusercontent.com/xuqssq/xuqssq/main/skills/openai.svg"></code>
+<code><img width="12%" src="https://raw.githubusercontent.com/xuqssq/xuqssq/main/skills/vercel.svg"></code>
 </p>
 
-<sub>Credits to: <br/>[Shelly Mullan](https://www.artstation.com/shellz-art) for the wonderfull [picture](https://github.com/xuqssq/xuqssq/blob/main/programmer.jpg)</sub>
+<sub>Credits to: <br/>[Shelly Mullan](https://www.artstation.com/shellz-art) for the wonderfull [picture](https://raw.githubusercontent.com/xuqssq/xuqssq/main/programmer.jpg)</sub>

@@ -3,7 +3,7 @@ const path = require("path");
 const fs = require("fs");
 
 const id = (~~(Math.random() * 10000000)).toString();
-const url = `https://robohash.org/${id}`;
+const url = `https://robohash.org/${id}?set=set4`;
 
 const dirPath = path.resolve(process.cwd(), "pictures");
 if (!fs.existsSync(dirPath)) {
