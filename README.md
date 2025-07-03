@@ -34,7 +34,7 @@ Welcome to my Github page! I am If, and I'm a React developer. Feel free to expl
 <code><img width="4.5%" src="https://raw.githubusercontent.com/xuqssq/xuqssq/main/skills/nextjs.svg"></code>
 <code><img width="4.5%" src="https://raw.githubusercontent.com/xuqssq/xuqssq/main/skills/supabase-icon.svg"></code>
 <br />
-<code><img width="10%" src="https://raw.githubusercontent.com/xuqssq/xuqssq/main/skills/nestjs.svg"></code>
+<code><img width="4%" src="https://raw.githubusercontent.com/xuqssq/xuqssq/main/skills/nestjs.svg"></code>
 <code><img width="4%" src="https://raw.githubusercontent.com/xuqssq/xuqssq/main/skills/vitejs.svg"></code>
 <code><img width="4%" src="https://raw.githubusercontent.com/xuqssq/xuqssq/main/skills/webpack.svg"></code>
 <code><img width="14%" src="https://raw.githubusercontent.com/xuqssq/xuqssq/main/skills/turborepo.svg"></code>
